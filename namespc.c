@@ -1,0 +1,2 @@
+int num = 8;
+// __PRAGMA_REDEFINE_EXTNAME = 40;
